@@ -1,0 +1,10 @@
+bin/
+clip/
+data/
+etc/
+include/
+lib/
+lib64/
+results/
+share/
+pyvenv.cfg
